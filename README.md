@@ -1,8 +1,4 @@
-Header
-
-About me
-
-Latest Youtube Shorts
+## I’m beginner Flutter Developer
 
 Languages and Tools
 
