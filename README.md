@@ -14,6 +14,6 @@
 
 ### Connect with me:
 
-![Telegram](https://img.shields.io/badge/Telegram-042449?style=for-the-badge&logo=Telegram&logoColor=37AEE2)
+[![Telegram](https://img.shields.io/badge/Telegram-042449?style=for-the-badge&logo=Telegram&logoColor=37AEE2)](https://t.me/denisbrkv)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-042449?style=for-the-badge&logo=LinkedIn&logoColor=0077B5)
 ![Youtube](https://img.shields.io/badge/Youtube-042449?style=for-the-badge&logo=Youtube&logoColor=E52D27)
