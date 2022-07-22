@@ -1,6 +1,11 @@
 ![Header](https://github.com/denisbrkv/denisbrkv/blob/main/assets/header.png)
 
-## I’m a beginner Flutter Developer
+## I’m beginner Flutter Developer
+
+- 🌱 I’m currently learning Dart and Flutter
+- 👯 I’m looking to collaborate on Mobile project
+- 📫 How to reach me: buryakovdv@gmail.com
+- ⚡ Fun fact: I'm started with swift...
 
 ### Languages and Tools:
 ![Dart](https://img.shields.io/badge/Dart-042449?style=for-the-badge&logo=Dart&logoColor=00C4B3  )
