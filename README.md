@@ -1,13 +1,14 @@
 ![Header](https://github.com/denisbrkv/denisbrkv/blob/main/assets/header.png)
 
-### I’m beginner Flutter Developer
+## I’m a beginner Flutter Developer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> 
-</p>
+### Languages and Tools:
+![Dart](https://img.shields.io/badge/Dart-042449?style=for-the-badge&logo=Dart&logoColor=00C4B3  )
+![Flutter](https://img.shields.io/badge/Flutter-042449?style=for-the-badge&logo=Flutter&logoColor=39CEFD)
+![Firebase](https://img.shields.io/badge/Firebase-042449?style=for-the-badge&logo=Firebase&logoColor=F57F17)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
