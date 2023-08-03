@@ -9,4 +9,4 @@ I am a frontend developer with a focus on React and a keen interest in creating 
 | TypeScript/JavaScript| MySql, MongoDB, SQLite|    ReactJS, NodeJS    | HTML, CSS, SCSS, BEM, GIT, Redux, SEO |
 
 ### Contacts
-[Telegram]([https://github.com/your_profile](https://t.me/denisbrkv)https://t.me/denisbrkv)
+[![Telegram](https://github.com/denisbrkv/denisbrkv/blob/main/icon-telegram.png?raw=true)](https://t.me/denisbrkv)
