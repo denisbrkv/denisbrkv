@@ -1,19 +1,17 @@
-![Header](https://github.com/denisbrkv/denisbrkv/blob/main/assets/header.png)
+### Hi, I'm Denis 
 
-## I’m beginner Flutter Developer
+### About Me
+I am a frontend developer with a focus on React and a keen interest in creating user interfaces. My goal is to build beautiful, efficient, and scalable web applications.
 
-- 🌱 I’m currently learning Dart and Flutter
-- 👯 I’m looking to collaborate on Mobile project
-- 📫 How to reach me: buryakovdv@gmail.com
-- ⚡ Fun fact: I'm started with swift...
+### Technologies
+#### Languages
+TypeScript/JavaScript
+#### Databases
+MySql, MongoDB, SQLite, etc.
+#### Libraries/frameworks
+ReactJS, NodeJS
+#### Other stuff
+HTML, CSS, SCSS, BEM, GIT, SEO
 
-### Languages and Tools:
-![Dart](https://img.shields.io/badge/Dart-042449?style=for-the-badge&logo=Dart&logoColor=00C4B3  )
-![Flutter](https://img.shields.io/badge/Flutter-042449?style=for-the-badge&logo=Flutter&logoColor=39CEFD)
-![Firebase](https://img.shields.io/badge/Firebase-042449?style=for-the-badge&logo=Firebase&logoColor=F57F17)
-
-### Connect with me:
-
-[![Telegram](https://img.shields.io/badge/Telegram-042449?style=for-the-badge&logo=Telegram&logoColor=37AEE2)](https://t.me/denisbrkv)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-042449?style=for-the-badge&logo=LinkedIn&logoColor=0077B5)
-![Youtube](https://img.shields.io/badge/Youtube-042449?style=for-the-badge&logo=Youtube&logoColor=E52D27)
+### Contacts
+[Telegram]([https://github.com/your_profile](https://t.me/denisbrkv)https://t.me/denisbrkv)
